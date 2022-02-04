@@ -10,10 +10,10 @@ Website: https://datwitchcharades.page or https://dastreamcharades.net
 
 ## Links
 
-[Donators](https://github.com/lejara/Da-Twitch-Charades/wiki/Donators)
+[Donators](https://github.com/lejara/Da-Stream-Charades/wiki/Donators)
 
-[Contributors](https://github.com/lejara/Da-Twitch-Charades/wiki/Contributors)
+[Contributors](https://github.com/lejara/Da-Stream-Charades/wiki/Contributors)
 
-[Patch Notes](https://github.com/lejara/Da-Twitch-Charades/wiki/Patch-Notes)
+[Patch Notes](https://github.com/lejara/Da-Stream-Charades/wiki/Patch-Notes)
 
-[Word Counts](https://github.com/lejara/Da-Twitch-Charades/wiki/Word-Counts)
+[Word Counts](https://github.com/lejara/Da-Stream-Charades/wiki/Word-Counts)
