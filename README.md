@@ -1,4 +1,4 @@
-# Da Stream Charades 2.0
+# Da Stream Charades
 
 _Formerly Called Da Twitch Charades_
 
