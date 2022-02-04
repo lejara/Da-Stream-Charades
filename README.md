@@ -2,7 +2,7 @@
 
 _Formerly Called Da Twitch Charades_
 
-Da Stream Charades 2.0 is a rewrite in react
+Da Stream Charades is a rewrite in react
 
 Fun Web App for streamers to play charades with their stream
 
